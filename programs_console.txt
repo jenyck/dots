@@ -1,0 +1,1 @@
+git neovim ranger htop ncdu curl tree perl python3 python3-pip lua5.4 gdb gcc nasm fpc build-essential tmux gtypist amfora
